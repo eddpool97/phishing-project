@@ -1,0 +1,16 @@
+﻿feature,importance
+num__risk_score,0.06946455506882991
+cat__result_status_Submitted Data,0.06268406153064965
+cat__result_status_Clicked Link,0.060151523150227544
+cat__position_Jefe de Taller,0.05998594287582494
+cat__position_Encargado de Compras,0.05395476312127464
+cat__position_Asistente de Finanzas,0.052850636263460815
+cat__position_Analista de RRHH,0.05177359463886641
+cat__position_Supervisor de Mantenimiento,0.05054406187169571
+cat__position_Tecnico de Soporte,0.04513769710388001
+cat__position_Asesor Comercial,0.045002553544794315
+cat__position_Recepcionista,0.04487287703339855
+cat__position_Operador de Sistemas,0.04389313240077744
+cat__position_Auxiliar Contable,0.04333496660059515
+cat__position_Jefe de Produccion,0.043222198786713344
+cat__position_Coordinador Logistico,0.04212099760847002

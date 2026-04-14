@@ -1,0 +1,542 @@
+﻿template_id,template_subject,template_text,text_full_norm,risk_detected,urgent_flag,url_flag,credentials_flag,context_detected,subcontext_detected,message_type_detected,text_level_detected,intention_detected,action_required_detected,pattern_urgency,pattern_authority,pattern_credentials,pattern_threat,pattern_validation,pattern_incentive,pattern_curiosity,pattern_corporate_context,text_full,risk_score,risk_target_rule,risk_label_rule
+1,Verificacion urgente de acceso institucional,"asunto: verificacion urgente de acceso institucional
+
+estimado usuario,
+
+hemos detectado un intento de acceso inusual a su cuenta institucional desde una ubicacion no reconocida. como medida preventiva, algunas funciones del perfil han sido limitadas temporalmente. para evitar la suspension automatica del acceso, es necesario completar una verificacion de identidad en el enlace seguro. durante el proceso se le solicitara confirmar su correo, la fecha de ultima actividad y actualizar las credenciales de acceso si corresponde. si no completa la revision dentro de las proximas 12 horas, el sistema podria aplicar un bloqueo temporal por seguridad. este mensaje fue emitido por la unidad automatizada de proteccion digital.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://portal-validacion-demo.net/session/review?case=202201-001-xaji&ref=xaji0y6dpb
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde seguridad-operativa-demo.net. no responda a este correo.","verificacion urgente de acceso institucional asunto: verificacion urgente de acceso institucional estimado usuario, hemos detectado un intento de acceso inusual a su cuenta institucional desde una ubicacion no reconocida. como medida preventiva, algunas funciones del perfil han sido limitadas temporalmente. para evitar la suspension automatica del acceso, es necesario completar una verificacion de identidad en el enlace seguro. durante el proceso se le solicitara confirmar su correo, la fecha de ultima actividad y actualizar las credenciales de acceso si corresponde. si no completa la revision dentro de las proximas 12 horas, el sistema podria aplicar un bloqueo temporal por seguridad. este mensaje fue emitido por la unidad automatizada de proteccion digital. para continuar con la revision, utilice el siguiente enlace: https://portal-validacion-demo.net/session/review?case=202201-001-xaji&ref=xaji0y6dpb datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde seguridad-operativa-demo.net. no responda a este correo.",Medio,0,0,1,Seguridad,Acceso,Neutral,Palabra o frase corta,Referencia,0.0,0,1,1,0,1,0,0,1,"Verificacion urgente de acceso institucional asunto: verificacion urgente de acceso institucional
+
+estimado usuario,
+
+hemos detectado un intento de acceso inusual a su cuenta institucional desde una ubicacion no reconocida. como medida preventiva, algunas funciones del perfil han sido limitadas temporalmente. para evitar la suspension automatica del acceso, es necesario completar una verificacion de identidad en el enlace seguro. durante el proceso se le solicitara confirmar su correo, la fecha de ultima actividad y actualizar las credenciales de acceso si corresponde. si no completa la revision dentro de las proximas 12 horas, el sistema podria aplicar un bloqueo temporal por seguridad. este mensaje fue emitido por la unidad automatizada de proteccion digital.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://portal-validacion-demo.net/session/review?case=202201-001-xaji&ref=xaji0y6dpb
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde seguridad-operativa-demo.net. no responda a este correo.",6.5,2,Alto
+2,Entrega retenida - accion requerida,"asunto: entrega retenida - accion requerida
+
+estimado usuario,
+
+su envio programado no pudo ser entregado debido a una inconsistencia en los datos de recepcion. para evitar la devolucion automatica del paquete al centro logistico, debe confirmar la direccion de entrega y el numero de contacto. el sistema mantendra el paquete en resguardo por 24 horas antes de enviarlo a devolucion. una vez completada la validacion, la entrega sera reprogramada en el siguiente ciclo operativo.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://tracking-update-demo.net/session/review?case=202302-002-hsah&ref=hsahxthv3a
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde notificaciones-envio-demo.net. no responda a este correo.","entrega retenida - accion requerida asunto: entrega retenida - accion requerida estimado usuario, su envio programado no pudo ser entregado debido a una inconsistencia en los datos de recepcion. para evitar la devolucion automatica del paquete al centro logistico, debe confirmar la direccion de entrega y el numero de contacto. el sistema mantendra el paquete en resguardo por 24 horas antes de enviarlo a devolucion. una vez completada la validacion, la entrega sera reprogramada en el siguiente ciclo operativo. para continuar con la revision, utilice el siguiente enlace: https://tracking-update-demo.net/session/review?case=202302-002-hsah&ref=hsahxthv3a datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde notificaciones-envio-demo.net. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,1,0,1,1,1,0,0,0,"Entrega retenida - accion requerida asunto: entrega retenida - accion requerida
+
+estimado usuario,
+
+su envio programado no pudo ser entregado debido a una inconsistencia en los datos de recepcion. para evitar la devolucion automatica del paquete al centro logistico, debe confirmar la direccion de entrega y el numero de contacto. el sistema mantendra el paquete en resguardo por 24 horas antes de enviarlo a devolucion. una vez completada la validacion, la entrega sera reprogramada en el siguiente ciclo operativo.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://tracking-update-demo.net/session/review?case=202302-002-hsah&ref=hsahxthv3a
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde notificaciones-envio-demo.net. no responda a este correo.",8.0,2,Alto
+3,Actividad inusual detectada en su perfil,"asunto: actividad inusual detectada en su perfil
+
+estimado usuario,
+
+nuestro sistema de monitoreo detecto una actividad inusual asociada a su perfil digital. por razones de seguridad, algunas operaciones han sido suspendidas temporalmente hasta verificar su identidad. ingrese al portal de comprobacion para revisar el caso, restaurar el acceso y confirmar si reconoce la actividad detectada. la revision inmediata reduce el riesgo de restricciones adicionales en sus operaciones.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://cliente-proteccion-demo.org/session/review?case=202403-003-3zmf&ref=3zmf8mdd4v
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde alertas-cliente-demo.org. no responda a este correo.","actividad inusual detectada en su perfil asunto: actividad inusual detectada en su perfil estimado usuario, nuestro sistema de monitoreo detecto una actividad inusual asociada a su perfil digital. por razones de seguridad, algunas operaciones han sido suspendidas temporalmente hasta verificar su identidad. ingrese al portal de comprobacion para revisar el caso, restaurar el acceso y confirmar si reconoce la actividad detectada. la revision inmediata reduce el riesgo de restricciones adicionales en sus operaciones. para continuar con la revision, utilice el siguiente enlace: https://cliente-proteccion-demo.org/session/review?case=202403-003-3zmf&ref=3zmf8mdd4v datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde alertas-cliente-demo.org. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,0,0,1,0,1,0,1,0,"Actividad inusual detectada en su perfil asunto: actividad inusual detectada en su perfil
+
+estimado usuario,
+
+nuestro sistema de monitoreo detecto una actividad inusual asociada a su perfil digital. por razones de seguridad, algunas operaciones han sido suspendidas temporalmente hasta verificar su identidad. ingrese al portal de comprobacion para revisar el caso, restaurar el acceso y confirmar si reconoce la actividad detectada. la revision inmediata reduce el riesgo de restricciones adicionales en sus operaciones.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://cliente-proteccion-demo.org/session/review?case=202403-003-3zmf&ref=3zmf8mdd4v
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde alertas-cliente-demo.org. no responda a este correo.",5.0,1,Medio
+4,Accion requerida: actualizacion de VPN corporativa,"asunto: accion requerida: actualizacion de vpn corporativa
+
+estimado usuario,
+
+como parte del mantenimiento trimestral de conectividad remota, se ha habilitado un procedimiento de sincronizacion para usuarios con acceso vpn. es necesario validar las credenciales actuales y aceptar la nueva politica de acceso seguro. los usuarios que no completen el proceso antes del cierre operativo podrian perder el acceso remoto temporalmente.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://vpn-actualizacion-demo.com/session/review?case=202504-004-30t9&ref=30t9nt3w5u
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde soporte-remoto-demo.com. no responda a este correo.","accion requerida: actualizacion de vpn corporativa asunto: accion requerida: actualizacion de vpn corporativa estimado usuario, como parte del mantenimiento trimestral de conectividad remota, se ha habilitado un procedimiento de sincronizacion para usuarios con acceso vpn. es necesario validar las credenciales actuales y aceptar la nueva politica de acceso seguro. los usuarios que no completen el proceso antes del cierre operativo podrian perder el acceso remoto temporalmente. para continuar con la revision, utilice el siguiente enlace: https://vpn-actualizacion-demo.com/session/review?case=202504-004-30t9&ref=30t9nt3w5u datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde soporte-remoto-demo.com. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,0,0,1,0,1,0,0,1,"Accion requerida: actualizacion de VPN corporativa asunto: accion requerida: actualizacion de vpn corporativa
+
+estimado usuario,
+
+como parte del mantenimiento trimestral de conectividad remota, se ha habilitado un procedimiento de sincronizacion para usuarios con acceso vpn. es necesario validar las credenciales actuales y aceptar la nueva politica de acceso seguro. los usuarios que no completen el proceso antes del cierre operativo podrian perder el acceso remoto temporalmente.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://vpn-actualizacion-demo.com/session/review?case=202504-004-30t9&ref=30t9nt3w5u
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde soporte-remoto-demo.com. no responda a este correo.",5.5,2,Alto
+5,Documento compartido requiere revision inmediata,"asunto: documento compartido requiere revision inmediata
+
+estimado usuario,
+
+se ha compartido con usted un documento relacionado con una revision interna pendiente. debido a cambios recientes en la politica de acceso, el sistema solicita una revalidacion de sesion antes de permitir la visualizacion del archivo. el documento estara disponible por tiempo limitado y la solicitud se cerrara automaticamente si no se revisa en el plazo indicado.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://secure-doc-view-demo.com/session/review?case=202205-005-zbik&ref=zbikcidkwn
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde colaboracion-docs-demo.com. no responda a este correo.","documento compartido requiere revision inmediata asunto: documento compartido requiere revision inmediata estimado usuario, se ha compartido con usted un documento relacionado con una revision interna pendiente. debido a cambios recientes en la politica de acceso, el sistema solicita una revalidacion de sesion antes de permitir la visualizacion del archivo. el documento estara disponible por tiempo limitado y la solicitud se cerrara automaticamente si no se revisa en el plazo indicado. para continuar con la revision, utilice el siguiente enlace: https://secure-doc-view-demo.com/session/review?case=202205-005-zbik&ref=zbikcidkwn datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde colaboracion-docs-demo.com. no responda a este correo.",Medio,0,0,1,Administrativo,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,1,0,1,0,0,0,1,0,"Documento compartido requiere revision inmediata asunto: documento compartido requiere revision inmediata
+
+estimado usuario,
+
+se ha compartido con usted un documento relacionado con una revision interna pendiente. debido a cambios recientes en la politica de acceso, el sistema solicita una revalidacion de sesion antes de permitir la visualizacion del archivo. el documento estara disponible por tiempo limitado y la solicitud se cerrara automaticamente si no se revisa en el plazo indicado.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://secure-doc-view-demo.com/session/review?case=202205-005-zbik&ref=zbikcidkwn
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde colaboracion-docs-demo.com. no responda a este correo.",5.0,1,Medio
+6,Confirmacion obligatoria de datos laborales,"asunto: confirmacion obligatoria de datos laborales
+
+estimado usuario,
+
+durante la actualizacion del expediente laboral se detectaron campos incompletos en su informacion de contacto y beneficios. para evitar retrasos en la gestion administrativa, confirme sus datos laborales y valide su identidad desde el portal del empleado. la revision incluye correo corporativo, cargo actual, contacto de emergencia y confirmacion de acceso.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://portal-empleado-demo.com/session/review?case=202306-006-nhj7&ref=nhj7xvg0fn
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde rrhh-notify-demo.com. no responda a este correo.","confirmacion obligatoria de datos laborales asunto: confirmacion obligatoria de datos laborales estimado usuario, durante la actualizacion del expediente laboral se detectaron campos incompletos en su informacion de contacto y beneficios. para evitar retrasos en la gestion administrativa, confirme sus datos laborales y valide su identidad desde el portal del empleado. la revision incluye correo corporativo, cargo actual, contacto de emergencia y confirmacion de acceso. para continuar con la revision, utilice el siguiente enlace: https://portal-empleado-demo.com/session/review?case=202306-006-nhj7&ref=nhj7xvg0fn datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde rrhh-notify-demo.com. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,0,1,1,0,1,0,0,1,"Confirmacion obligatoria de datos laborales asunto: confirmacion obligatoria de datos laborales
+
+estimado usuario,
+
+durante la actualizacion del expediente laboral se detectaron campos incompletos en su informacion de contacto y beneficios. para evitar retrasos en la gestion administrativa, confirme sus datos laborales y valide su identidad desde el portal del empleado. la revision incluye correo corporativo, cargo actual, contacto de emergencia y confirmacion de acceso.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://portal-empleado-demo.com/session/review?case=202306-006-nhj7&ref=nhj7xvg0fn
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde rrhh-notify-demo.com. no responda a este correo.",6.5,2,Alto
+7,Factura pendiente de validacion,"asunto: factura pendiente de validacion
+
+estimado usuario,
+
+se registro una discrepancia en el procesamiento de una factura asociada a su cuenta de servicios. antes de proceder con la anulacion automatica, el sistema solicita validar el documento, el metodo de pago y la direccion de facturacion. la revision debe completarse dentro del periodo indicado para evitar recargos o suspension del servicio.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://factura-validacion-demo.net/session/review?case=202407-007-9xuy&ref=9xuy41iblj
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde facturacion-servicios-demo.net. no responda a este correo.","factura pendiente de validacion asunto: factura pendiente de validacion estimado usuario, se registro una discrepancia en el procesamiento de una factura asociada a su cuenta de servicios. antes de proceder con la anulacion automatica, el sistema solicita validar el documento, el metodo de pago y la direccion de facturacion. la revision debe completarse dentro del periodo indicado para evitar recargos o suspension del servicio. para continuar con la revision, utilice el siguiente enlace: https://factura-validacion-demo.net/session/review?case=202407-007-9xuy&ref=9xuy41iblj datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde facturacion-servicios-demo.net. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,1,0,1,0,0,0,1,0,"Factura pendiente de validacion asunto: factura pendiente de validacion
+
+estimado usuario,
+
+se registro una discrepancia en el procesamiento de una factura asociada a su cuenta de servicios. antes de proceder con la anulacion automatica, el sistema solicita validar el documento, el metodo de pago y la direccion de facturacion. la revision debe completarse dentro del periodo indicado para evitar recargos o suspension del servicio.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://factura-validacion-demo.net/session/review?case=202407-007-9xuy&ref=9xuy41iblj
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde facturacion-servicios-demo.net. no responda a este correo.",5.0,1,Medio
+8,Restablecimiento de acceso a almacenamiento en la nube,"asunto: restablecimiento de acceso a almacenamiento en la nube
+
+estimado usuario,
+
+como parte de la migracion programada del servicio de almacenamiento, algunas sesiones activas deben restablecerse manualmente. ingrese al portal temporal para confirmar su identidad y sincronizar permisos de carpeta, historial de actividad y metodos de recuperacion. las sesiones no validadas podrian quedar cerradas hasta la siguiente ventana de mantenimiento.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://cloud-session-demo.net/session/review?case=202508-008-h75l&ref=h75lxo6qji
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde nube-soporte-demo.net. no responda a este correo.","restablecimiento de acceso a almacenamiento en la nube asunto: restablecimiento de acceso a almacenamiento en la nube estimado usuario, como parte de la migracion programada del servicio de almacenamiento, algunas sesiones activas deben restablecerse manualmente. ingrese al portal temporal para confirmar su identidad y sincronizar permisos de carpeta, historial de actividad y metodos de recuperacion. las sesiones no validadas podrian quedar cerradas hasta la siguiente ventana de mantenimiento. para continuar con la revision, utilice el siguiente enlace: https://cloud-session-demo.net/session/review?case=202508-008-h75l&ref=h75lxo6qji datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde nube-soporte-demo.net. no responda a este correo.",Medio,0,0,1,Soporte,Mesa de ayuda,Neutral,Palabra o frase corta,Referencia,0.0,0,0,1,0,1,0,0,1,"Restablecimiento de acceso a almacenamiento en la nube asunto: restablecimiento de acceso a almacenamiento en la nube
+
+estimado usuario,
+
+como parte de la migracion programada del servicio de almacenamiento, algunas sesiones activas deben restablecerse manualmente. ingrese al portal temporal para confirmar su identidad y sincronizar permisos de carpeta, historial de actividad y metodos de recuperacion. las sesiones no validadas podrian quedar cerradas hasta la siguiente ventana de mantenimiento.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://cloud-session-demo.net/session/review?case=202508-008-h75l&ref=h75lxo6qji
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde nube-soporte-demo.net. no responda a este correo.",5.5,2,Alto
+9,Su buzon excedio el limite permitido,"asunto: su buzon excedio el limite permitido
+
+estimado usuario,
+
+el sistema detecto que su buzon alcanzo el umbral maximo de almacenamiento permitido y se programo una suspension preventiva de recepcion. para evitar la interrupcion del servicio, revise el informe de capacidad y confirme la limpieza automatizada o ampliacion temporal. la accion debe realizarse antes de que expire la ventana de continuidad del servicio.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://mail-storage-demo.net/session/review?case=202209-009-ujv6&ref=ujv6oh9sdb
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde mensajeria-admin-demo.com. no responda a este correo.","su buzon excedio el limite permitido asunto: su buzon excedio el limite permitido estimado usuario, el sistema detecto que su buzon alcanzo el umbral maximo de almacenamiento permitido y se programo una suspension preventiva de recepcion. para evitar la interrupcion del servicio, revise el informe de capacidad y confirme la limpieza automatizada o ampliacion temporal. la accion debe realizarse antes de que expire la ventana de continuidad del servicio. para continuar con la revision, utilice el siguiente enlace: https://mail-storage-demo.net/session/review?case=202209-009-ujv6&ref=ujv6oh9sdb datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde mensajeria-admin-demo.com. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,1,0,1,1,1,0,0,1,"Su buzon excedio el limite permitido asunto: su buzon excedio el limite permitido
+
+estimado usuario,
+
+el sistema detecto que su buzon alcanzo el umbral maximo de almacenamiento permitido y se programo una suspension preventiva de recepcion. para evitar la interrupcion del servicio, revise el informe de capacidad y confirme la limpieza automatizada o ampliacion temporal. la accion debe realizarse antes de que expire la ventana de continuidad del servicio.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://mail-storage-demo.net/session/review?case=202209-009-ujv6&ref=ujv6oh9sdb
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde mensajeria-admin-demo.com. no responda a este correo.",9.0,2,Alto
+10,Tiene un beneficio interno pendiente de confirmacion,"asunto: tiene un beneficio interno pendiente de confirmacion
+
+estimado usuario,
+
+se identifico un beneficio interno pendiente de confirmacion vinculado a su perfil de colaborador. la asignacion requiere autenticacion previa para validar elegibilidad, datos de contacto y preferencia de entrega. en caso de no completar la revision, el beneficio sera reasignado en el siguiente cierre administrativo.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://beneficio-empleado-demo.org/session/review?case=202310-010-dw2p&ref=dw2pcn9t84
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde beneficios-corp-demo.org. no responda a este correo.","tiene un beneficio interno pendiente de confirmacion asunto: tiene un beneficio interno pendiente de confirmacion estimado usuario, se identifico un beneficio interno pendiente de confirmacion vinculado a su perfil de colaborador. la asignacion requiere autenticacion previa para validar elegibilidad, datos de contacto y preferencia de entrega. en caso de no completar la revision, el beneficio sera reasignado en el siguiente cierre administrativo. para continuar con la revision, utilice el siguiente enlace: https://beneficio-empleado-demo.org/session/review?case=202310-010-dw2p&ref=dw2pcn9t84 datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde beneficios-corp-demo.org. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,0,0,0,0,0,1,0,0,"Tiene un beneficio interno pendiente de confirmacion asunto: tiene un beneficio interno pendiente de confirmacion
+
+estimado usuario,
+
+se identifico un beneficio interno pendiente de confirmacion vinculado a su perfil de colaborador. la asignacion requiere autenticacion previa para validar elegibilidad, datos de contacto y preferencia de entrega. en caso de no completar la revision, el beneficio sera reasignado en el siguiente cierre administrativo.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://beneficio-empleado-demo.org/session/review?case=202310-010-dw2p&ref=dw2pcn9t84
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde beneficios-corp-demo.org. no responda a este correo.",1.5,0,Bajo
+11,Pago retenido por inconsistencia documental,"asunto: pago retenido por inconsistencia documental
+
+estimado usuario,
+
+durante la conciliacion operativa se detecto una inconsistencia documental asociada a un pago pendiente. para continuar con la liberacion del abono, es necesario validar el expediente, el comprobante y la confirmacion del responsable. la solicitud se mantiene activa por tiempo limitado antes de pasar a revision manual.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://proveedor-validacion-demo.com/session/review?case=202411-011-azyt&ref=azytjxepq8
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde pagos-operaciones-demo.com. no responda a este correo.","pago retenido por inconsistencia documental asunto: pago retenido por inconsistencia documental estimado usuario, durante la conciliacion operativa se detecto una inconsistencia documental asociada a un pago pendiente. para continuar con la liberacion del abono, es necesario validar el expediente, el comprobante y la confirmacion del responsable. la solicitud se mantiene activa por tiempo limitado antes de pasar a revision manual. para continuar con la revision, utilice el siguiente enlace: https://proveedor-validacion-demo.com/session/review?case=202411-011-azyt&ref=azytjxepq8 datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde pagos-operaciones-demo.com. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,1,0,1,1,0,0,1,0,"Pago retenido por inconsistencia documental asunto: pago retenido por inconsistencia documental
+
+estimado usuario,
+
+durante la conciliacion operativa se detecto una inconsistencia documental asociada a un pago pendiente. para continuar con la liberacion del abono, es necesario validar el expediente, el comprobante y la confirmacion del responsable. la solicitud se mantiene activa por tiempo limitado antes de pasar a revision manual.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://proveedor-validacion-demo.com/session/review?case=202411-011-azyt&ref=azytjxepq8
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde pagos-operaciones-demo.com. no responda a este correo.",7.0,2,Alto
+12,Renovacion obligatoria de credencial digital,"asunto: renovacion obligatoria de credencial digital
+
+estimado usuario,
+
+su credencial digital esta proxima a vencer segun la politica de autenticacion vigente. complete el proceso de renovacion para mantener acceso a herramientas internas, paneles de seguimiento y servicios integrados. el portal temporal registrara la confirmacion de identidad y actualizara la fecha de expiracion al finalizar.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://credencial-renovacion-demo.net/session/review?case=202512-012-5jsg&ref=5jsg65kxvf
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde acceso-plataforma-demo.net. no responda a este correo.","renovacion obligatoria de credencial digital asunto: renovacion obligatoria de credencial digital estimado usuario, su credencial digital esta proxima a vencer segun la politica de autenticacion vigente. complete el proceso de renovacion para mantener acceso a herramientas internas, paneles de seguimiento y servicios integrados. el portal temporal registrara la confirmacion de identidad y actualizara la fecha de expiracion al finalizar. para continuar con la revision, utilice el siguiente enlace: https://credencial-renovacion-demo.net/session/review?case=202512-012-5jsg&ref=5jsg65kxvf datos que el sistema puede solicitar durante la validacion: - correo asociado al perfil - fecha de ultima actividad - confirmacion del cargo o area - actualizacion de credenciales o metodo de recuperacion importante: si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal. atentamente, centro automatizado de soporte unidad de notificaciones operativas aviso: este es un mensaje generado automaticamente desde acceso-plataforma-demo.net. no responda a este correo.",Medio,0,0,1,Soporte,Asistencia,Neutral,Palabra o frase corta,Referencia,0.0,0,0,1,0,1,0,0,1,"Renovacion obligatoria de credencial digital asunto: renovacion obligatoria de credencial digital
+
+estimado usuario,
+
+su credencial digital esta proxima a vencer segun la politica de autenticacion vigente. complete el proceso de renovacion para mantener acceso a herramientas internas, paneles de seguimiento y servicios integrados. el portal temporal registrara la confirmacion de identidad y actualizara la fecha de expiracion al finalizar.
+
+para continuar con la revision, utilice el siguiente enlace:
+https://credencial-renovacion-demo.net/session/review?case=202512-012-5jsg&ref=5jsg65kxvf
+
+datos que el sistema puede solicitar durante la validacion:
+- correo asociado al perfil
+- fecha de ultima actividad
+- confirmacion del cargo o area
+- actualizacion de credenciales o metodo de recuperacion
+
+importante:
+si no realiza la validacion dentro del plazo indicado, algunas funciones del servicio podrian permanecer limitadas de forma temporal.
+
+atentamente,
+centro automatizado de soporte
+unidad de notificaciones operativas
+
+aviso: este es un mensaje generado automaticamente desde acceso-plataforma-demo.net. no responda a este correo.",5.5,2,Alto
+16,Convocatoria abierta - CUBO_AI – Primera edición 2026,,convocatoria abierta - cubo_ai – primera edicion 2026,,0,0,0,,,,,,,0,0,0,0,0,0,0,0,Convocatoria abierta - CUBO_AI – Primera edición 2026,0.0,0,Bajo
